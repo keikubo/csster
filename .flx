@@ -1,0 +1,3 @@
+[setup]
+mkdir public_html
+ln -s * public_html/
